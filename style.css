@@ -64,9 +64,7 @@ body {
 }
 
 #sustain #susimgwrapper {
-    
-   
-    height: 15vw;
+     height: 15vw;
     width: 100%;
 
 }
@@ -168,7 +166,7 @@ body {
 #one {
     width: 80px;
     height: 40px;
-    background-image: url(/images/bluegirl.jpg);
+    background-image: url(images/bluegirl.jpg);
     background-size: cover;
     background-position: 0% 60%;
 }
@@ -176,7 +174,7 @@ body {
 #two {
     width: 100px;
     height: 50px;
-    background-image: url(/images/shaljam.jpg);
+    background-image: url(images/shaljam.jpg);
     background-size: cover;
     background-position: 0% 50%;
 }
@@ -184,7 +182,7 @@ body {
 #three {
     width: 80px;
     height: 40px;
-    background-image: url(/images/grass.jpg);
+    background-image: url(images/grass.jpg);
     background-size: cover;
     background-position: 0% 60%;
 }
